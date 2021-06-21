@@ -1,0 +1,2 @@
+# Medical_Appointment_No_Shows_data_analysis
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.  I deeply analyzed the data and tracked the main reason for not showing trying to know What factors are important for us to know; in order to predict if a patient will show up for their scheduled appointment or not?
